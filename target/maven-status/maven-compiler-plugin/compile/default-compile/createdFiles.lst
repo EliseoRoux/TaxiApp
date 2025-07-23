@@ -1,0 +1,4 @@
+App.class
+com\centraltaxis\service\TaxiService.class
+com\centraltaxis\controller\TaxiController.class
+com\centraltaxis\model\Taxi.class
