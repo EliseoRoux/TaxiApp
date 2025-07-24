@@ -1,4 +1,5 @@
-App.class
-com\centraltaxis\service\TaxiService.class
-com\centraltaxis\controller\TaxiController.class
-com\centraltaxis\model\Taxi.class
+com\centraltaxis\CentralTaxisApplication.class
+com\centraltaxis\model\Servicio.class
+com\centraltaxis\model\Reserva.class
+com\centraltaxis\model\Cliente.class
+com\centraltaxis\model\Conductor.class
