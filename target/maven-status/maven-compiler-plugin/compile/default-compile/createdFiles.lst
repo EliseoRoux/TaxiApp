@@ -11,7 +11,9 @@ com\centraltaxis\service\ServicioService.class
 com\centraltaxis\service\ConductorService.class
 com\centraltaxis\controller\ConductorController.class
 com\centraltaxis\controller\ReservaController.class
+com\centraltaxis\exception\GlobalExceptionHandler.class
 com\centraltaxis\model\Reserva.class
 com\centraltaxis\repository\ClienteRepository.class
+com\centraltaxis\exception\ResourceNotFoundException.class
 com\centraltaxis\repository\ConductorRepository.class
 com\centraltaxis\service\ClienteService.class
