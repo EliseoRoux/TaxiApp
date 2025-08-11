@@ -3,11 +3,13 @@ com\centraltaxis\repository\ReservaRepository.class
 com\centraltaxis\repository\ServicioRepository.class
 com\centraltaxis\controller\ServicioController.class
 com\centraltaxis\model\Cliente.class
+com\centraltaxis\config\CorsConfig.class
 com\centraltaxis\controller\ClienteController.class
 com\centraltaxis\CentralTaxisApplication.class
 com\centraltaxis\model\Conductor.class
 com\centraltaxis\service\ReservaService.class
 com\centraltaxis\service\ServicioService.class
+com\centraltaxis\config\CorsConfig$1.class
 com\centraltaxis\service\ConductorService.class
 com\centraltaxis\controller\ConductorController.class
 com\centraltaxis\controller\ReservaController.class
